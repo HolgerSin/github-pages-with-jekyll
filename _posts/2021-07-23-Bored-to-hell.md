@@ -1,6 +1,6 @@
 ---
-title: "Bored-to-hell"
-date: 2021-07-23
+title: "Bored-to-heell"
+date: 2021-07-22
 ---
 
 
